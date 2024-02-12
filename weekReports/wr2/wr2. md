@@ -1,0 +1,46 @@
+# Lecture 2 Introduction to Linux Notes
+
+## Important concepts:
+* **Operating System:An operating system provides all fundamental software features of a computer. **
+
+* **Kernel:An OS kernel is a software component that's responsible for managing low-level features of a computer.**
+
+* **Components of an operating system:Hardware, Linux Kernel, Daemons & Shells, Graphical Desktop Environment,Applications**
+
+* **Linux :Linux is a Unix-like Operating System popular in academic and business environments**
+
+* **Linux Characteristics:Open Source software, free of charge, inc. many Unix tools, highly customizable, applicable on almost any system**
+
+* **GNU Toolchain:is a collection of compilers, libraries, debuggers, and core utilities modelled on Unix.**
+
+* **Linux Distribution:a complete system package.**
+ 
+* **What is Ubuntu:A Linux distribution freely available with both community and professional support**
+
+* **Ubuntu Release cycles:Ubuntu is shipped in stable and regular release cycles; Regular or Non-LTS every six months and supported for 9**
+
+* **What is Debian:An all volunteer organization dedicated to developing free software**
+
+* **Different software licensing models (open source vs closed source):open source: source code distributed with the software  closed source: User is restricted from modifying the source code. **
+
+* **The 4 Freedoms of Free Software:Freedom 0: Use the software for any purpose Freedom 1:Examine the source code and modify it as you see fit Freedom 2: redistribute the software. Freedom 3: Redistribute your modified software**
+
+* **Virtualization:Tech that you can use to create virtual representations of servers, storage, networks, and other physical machines**
+
+* **Hypervisor and types:type 1 : runs directly on the host machine's physical hardware, known as bare-metal hypervisor. Type 2 : runs on the operating system of the physical host machine, hence, call hosted hypervisors**
+
+* **VirtualBox:cross platform virtualization software. allows users to extend their existing computer to run multiple operating systems including Microsoft Windows, Mac OS X, Linux, and Oracle Solaris at the same time.**
+ 
+
+## List of the main Linux distributions
+Ubuntu, Debian, Fedora, Arch Linux, openSUSE, CentOS
+## List of some of the Debian Based Linux distributions
+Linux Mint, MX Linux, PureOS, developing
+## List of some of the Red Hat-based Linux distributions
+Rocky Linux, AlmaLinux, Oracle Linux, Fedora
+## List of some of the Ubuntu RBased Linux Distributions
+Lubuntu, Ubuntu Budgie, Zorin OS, Xubuntu, KDE neon
+
+
+
+
